@@ -1,0 +1,15 @@
+
+h1 {
+    font-size: 36px;
+    font-variant: small-caps;
+    color: green;
+    text-align : center;
+    font-family: monospace;
+}
+div {
+    font-size:2em;
+    color: blue;
+    text-indent: -1.0em;
+    margin-left: 14em;
+    
+}
