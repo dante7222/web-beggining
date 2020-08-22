@@ -1,0 +1,23 @@
+nav {
+  background-color: black;
+  padding: 1em;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+}
+
+button {
+  background-color: #535353;
+  color: #000;
+}
+button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+/*# sourceMappingURL=index.css.map */

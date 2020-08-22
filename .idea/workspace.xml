@@ -11,7 +11,663 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657f5843-14dd-401e-a6a8-9ff3a64b25de" name="Default Changelist" comment="Init">
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/cardboard_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/coupon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/final.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/headerlogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/headerlogo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/headerLogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/headerSlogan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/coupon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/cardboard_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/coupon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/final.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/headerlogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/headerlogo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/cardboard_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/coupon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/final.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/headerLogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/headerSlogan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/headerlogo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/images/backpack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/images/segway1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/images/segway2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/images/backpack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/images/segway1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/images/segway2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/award.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/bag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/cardboard_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/coupon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/final.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/headerLogo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/headerSlogan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/headerlogo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/images/ticket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter3/journal/images/segway1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter3/journal/images/segway2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/buzz/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/logo/mypod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/logo/mypod.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/applestore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/britain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_classic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_classic_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_downtown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_shuffle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_video_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/applestore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/britain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_classic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_downtown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_shuffle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_video_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/logo/mypod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/logo/mypod.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/applestore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/britain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_classic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_classic_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_downtown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_shuffle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/photos/seattle_video_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/applestore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/britain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_classic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_downtown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_shuffle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_video_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/testimage/eye.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/trivia/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/images/segway1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/images/segway2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/drinks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/lightblue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/Sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/basic_html/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/basic_html/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/basic_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/basic_html/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/box/box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/box/box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_css/css/flexbox/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/AlmostAngular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/Decorators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/Generics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/namespace/form-namespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/namespace/namespaceUsage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/dist/namespaces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/src/AlmostAngular.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/src/Decorators.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/src/Generics.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/src/namespace/form-namespace.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/src/namespace/namespaceUsage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/advanced/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/generics/easy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/hirarchy/abstractClasses.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/hirarchy/classes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/hirarchy/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/ts_operators/operators.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/types/BasicTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/types/Enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/types/FunctionsOverloading.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/types/guards.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/datastructure_exercises/DeepComprasion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/datastructure_exercises/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/datastructure_exercises/ReversingAnArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/datastructure_exercises/SumOfRange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/high_order_functions/Everything.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/high_order_functions/Flattening.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/high_order_functions/OwnLoop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/object/Groups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/object/Vector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/BeanCounting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/DOM/DOM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/DOM/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/DOM/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/Playgroud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/Prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/ajax/fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/ajax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/arrays/Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/arrays/vanilla-streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/Async-Await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/PromiseAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/Promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/TestFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/TimeOutTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/Understand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/async/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/context/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/context/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/data_structures/Iterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/data_structures/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/data_structures/Set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/for_future/DeepEquals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/functions/FunctionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/functions/iterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/hoisting/Hoisting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/js-oop/GetterSetter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/js-oop/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/js-oop/inde.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/js-oop/inheritance/NewSyntaxInheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/js-oop/inheritance/VanillaPrototypeInheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/methods/Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/object/Obj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/object/destructuring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/proxy/FunctionProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/theory/proxy/ObjectProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-modules/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-modules/src/app/SomeObj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-modules/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-modules/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/README" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter1/starbuzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter1/starbuzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter1/starbuzz/mission.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter1/starbuzz/mission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge-complete/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge-complete/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter10/lounge/print/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/print/print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/background2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/cardboard_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/coupon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/final.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/headerlogo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/headerlogo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/absolute/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/freecoffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/freecoffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/headerLogo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/headerSlogan.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz-complete/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz-complete/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/freecoffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/freecoffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/coupon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/starbuzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/starbuzz/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/freecoffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/tabledisplay/freecoffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/background2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/cardboard_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/coupon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/final.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/headerlogo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/headerlogo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter11/tabledisplay/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter11/absolute/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/blog-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/blog-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/background2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/cardboard_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/coupon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/final.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/headerLogo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/headerSlogan.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/headerlogo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/poster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter12/starbuzz/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.ogv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter12/starbuzz/video/tweetsip.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/EmblemaOne-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/images/backpack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/images/segway1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/images/segway2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/journal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/journal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/journal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal-complete/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal-complete/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/EmblemaOne-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/images/backpack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/images/segway1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/images/segway2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/journal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/journal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/journal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter13/journal/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter13/journal/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/contest/contest.php" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/contest/contest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/contest/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/contest/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/accessform.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/accessform.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/accessform.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/accessform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/form-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/form-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/award.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/background2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/bag.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/cardboard_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/coupon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/final.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/header.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/headerLogo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/headerSlogan.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/headerlogo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/images/ticket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/starbuzz.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/starbuzz.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/styledform.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/styledform.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter14/starbuzz/styledform.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter14/starbuzz/styledform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter15/transform.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter15/transform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/completelounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/completelounge/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter2/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter2/lounge/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter3/journal/images/segway1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter3/journal/images/segway2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter3/journal/journal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter3/journal/journal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/buzz/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/buzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/buzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/starbuzz-complete/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/starbuzz-complete/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/starbuzz-complete/mission.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/starbuzz-complete/mission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/starbuzz-complete/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/starbuzz-complete/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/starbuzz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/starbuzz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter4/starbuzz/mission.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter4/starbuzz/mission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/html/applestore.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/html/applestore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/html/britain.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/html/britain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/html/seattle_classic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_shuffle.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_shuffle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_video_med.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/html/seattle_video_med.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/index_bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/index_bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/index_thumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/index_thumbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/logo/mypod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/logo/mypod.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/applestore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/britain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_classic_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_downtown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_medium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_shuffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/photos/seattle_video_med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/applestore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/britain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_downtown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_shuffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod-complete/thumbnails/seattle_video_med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/html/applestore.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/html/applestore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/html/britain.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/html/britain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/html/seattle_classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_classic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/html/seattle_shuffle.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/html/seattle_shuffle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/html/seattle_video_med.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod-complete/html/seattle_video_med.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/mypod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/logo/mypod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/logo/mypod.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/applestore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/britain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_classic_large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_downtown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_medium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_shuffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/photos/seattle_video_med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/applestore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/britain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_downtown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_shuffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/mypod/thumbnails/seattle_video_med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/testimage/eye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/trivia/pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter5/trivia/trivia.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/trivia/trivia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/lounge-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter6/lounge-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter6/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter5/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/lounge-complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/lounge-complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter7/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter7/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/EmblemaOne-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/images/segway1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/images/segway2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/journal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter8/journal/journal.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter8/journal/journal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge-mediaquery.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge-mediaquery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge-mediaquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge-mediaquery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge-mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/lounge-mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge-print.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge-print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge-complete/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/about/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter10/lounge/about/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/beverages/elixir.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/beverages/elixir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/drinks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/lightblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/lounge-mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge-complete/lounge-mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/lounge-print.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/lounge-print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Head-First-HTML-master/chapter9/lounge/lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/Head-First-HTML-master/chapter9/lounge/lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/theory/functions/Functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/Number.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/theory/methods/Number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/String.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/theory/methods/String.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/Syntax.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/theory/Syntax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/recursion/Recursion_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/recursion/Recursion_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/recursion/Recursion_sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/recursion/Recursion_sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/syntax_exercises/BeanCounting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/syntax_exercises/Chessboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/Chessboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/syntax_exercises/FizzBuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/FizzBuzz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/syntax_exercises/LoopingTriangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/LoopingTriangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-way/syntax_exercises/Minimum.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/Minimum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testMozila.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css/testMozila.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +677,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,15 +703,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1bmDkAlidNm5TU6u8bTgsCfviyv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -61,42 +729,58 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/typescript/advanced/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js-way" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/vanilla-js/theory" />
+      <recent name="$PROJECT_DIR$/typescript/advanced/src" />
+      <recent name="$PROJECT_DIR$/typescript/advanced" />
+      <recent name="$PROJECT_DIR$/vanilla-js/DOM" />
+      <recent name="$PROJECT_DIR$/vanilla-js/exercises/object" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.BeanCounting.js">
-    <configuration name="BeanCounting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-way/syntax_exercises/BeanCounting.js" working-dir="$PROJECT_DIR$/js-way/syntax_exercises">
+  <component name="RunManager" selected="Node.js.namespaceUsage.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Decorators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typescript/advanced/dist/Decorators.js" working-dir="$PROJECT_DIR$/typescript/advanced/dist">
       <method v="2" />
     </configuration>
-    <configuration name="Minimum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-way/syntax_exercises/Minimum.js" working-dir="$PROJECT_DIR$/js-way/syntax_exercises">
+    <configuration name="Obj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/vanilla-js/theory/object/Obj.js" working-dir="$PROJECT_DIR$/vanilla-js/theory/object">
       <method v="2" />
     </configuration>
-    <configuration name="Recursion_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-way/recursion/Recursion_2.js" working-dir="$PROJECT_DIR$/js-way/recursion">
+    <configuration name="destructuring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/vanilla-js/theory/object/destructuring.js" working-dir="$PROJECT_DIR$/vanilla-js/theory/object">
       <method v="2" />
     </configuration>
-    <configuration name="Recursion_sample.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-way/recursion/Recursion_sample.js" working-dir="$PROJECT_DIR$/js-way/recursion">
+    <configuration name="iterator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/vanilla-js/theory/functions/iterator.js" working-dir="$PROJECT_DIR$/vanilla-js/theory/functions">
       <method v="2" />
     </configuration>
-    <configuration name="Syntax.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-way/Syntax.js" working-dir="$PROJECT_DIR$/js-way">
+    <configuration name="namespaceUsage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/typescript/advanced/dist/namespace/namespaceUsage.js" working-dir="$PROJECT_DIR$/typescript/advanced/dist/namespace">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.BeanCounting.js" />
-        <item itemvalue="Node.js.Recursion_2.js" />
-        <item itemvalue="Node.js.Minimum.js" />
-        <item itemvalue="Node.js.Recursion_sample.js" />
-        <item itemvalue="Node.js.Syntax.js" />
+        <item itemvalue="Node.js.namespaceUsage.js" />
+        <item itemvalue="Node.js.iterator.js" />
+        <item itemvalue="Node.js.destructuring.js" />
+        <item itemvalue="Node.js.Obj.js" />
+        <item itemvalue="Node.js.Decorators.js" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,6 +812,86 @@
       <workItem from="1593762687713" duration="7833000" />
       <workItem from="1593850511371" duration="7274000" />
       <workItem from="1593871661201" duration="3165000" />
+      <workItem from="1593943288391" duration="2051000" />
+      <workItem from="1593965477799" duration="3714000" />
+      <workItem from="1594030540369" duration="10205000" />
+      <workItem from="1594111545329" duration="608000" />
+      <workItem from="1594119481410" duration="5406000" />
+      <workItem from="1594201294962" duration="187000" />
+      <workItem from="1594201857150" duration="34000" />
+      <workItem from="1594226825363" duration="7619000" />
+      <workItem from="1594238275422" duration="4916000" />
+      <workItem from="1594290012183" duration="6479000" />
+      <workItem from="1594322343482" duration="8471000" />
+      <workItem from="1594377340182" duration="17208000" />
+      <workItem from="1594477877122" duration="120000" />
+      <workItem from="1594479500692" duration="497000" />
+      <workItem from="1594491804949" duration="14000" />
+      <workItem from="1594491901794" duration="21000" />
+      <workItem from="1594491973936" duration="13000" />
+      <workItem from="1594492169748" duration="55000" />
+      <workItem from="1594494608854" duration="96000" />
+      <workItem from="1594494708502" duration="196000" />
+      <workItem from="1594500570701" duration="1208000" />
+      <workItem from="1594543664807" duration="6553000" />
+      <workItem from="1594557890760" duration="715000" />
+      <workItem from="1594565411451" duration="720000" />
+      <workItem from="1594586401062" duration="2849000" />
+      <workItem from="1594623242439" duration="885000" />
+      <workItem from="1594810699652" duration="1035000" />
+      <workItem from="1594812049725" duration="3132000" />
+      <workItem from="1594897459650" duration="4702000" />
+      <workItem from="1594972182201" duration="1731000" />
+      <workItem from="1594983597866" duration="679000" />
+      <workItem from="1595016887339" duration="3000" />
+      <workItem from="1595071390898" duration="1275000" />
+      <workItem from="1595149536170" duration="3419000" />
+      <workItem from="1595160327564" duration="79000" />
+      <workItem from="1595160409878" duration="584000" />
+      <workItem from="1595161356675" duration="62000" />
+      <workItem from="1595179222986" duration="1214000" />
+      <workItem from="1595187138518" duration="3000" />
+      <workItem from="1595187154845" duration="2317000" />
+      <workItem from="1595236367061" duration="4598000" />
+      <workItem from="1595313766049" duration="6197000" />
+      <workItem from="1595399968046" duration="3521000" />
+      <workItem from="1595443557670" duration="83000" />
+      <workItem from="1595486842295" duration="7616000" />
+      <workItem from="1595507527305" duration="2886000" />
+      <workItem from="1595534402945" duration="472000" />
+      <workItem from="1595574804265" duration="2295000" />
+      <workItem from="1595585358533" duration="684000" />
+      <workItem from="1595747232133" duration="2563000" />
+      <workItem from="1595767805290" duration="46000" />
+      <workItem from="1595768116126" duration="29000" />
+      <workItem from="1595768156416" duration="10000" />
+      <workItem from="1595768171490" duration="1816000" />
+      <workItem from="1595833981001" duration="1050000" />
+      <workItem from="1595835825585" duration="4637000" />
+      <workItem from="1595850035985" duration="23000" />
+      <workItem from="1595964495513" duration="30000" />
+      <workItem from="1596004804209" duration="2671000" />
+      <workItem from="1596016238143" duration="598000" />
+      <workItem from="1596098391328" duration="9300000" />
+      <workItem from="1596123718802" duration="4713000" />
+      <workItem from="1596138871511" duration="3413000" />
+      <workItem from="1596192994968" duration="12044000" />
+      <workItem from="1596264194573" duration="13152000" />
+      <workItem from="1596352722737" duration="7670000" />
+      <workItem from="1596527594258" duration="5217000" />
+      <workItem from="1596544276174" duration="1290000" />
+      <workItem from="1596546429925" duration="5316000" />
+      <workItem from="1596917211888" duration="247000" />
+      <workItem from="1597054585881" duration="662000" />
+      <workItem from="1597765760231" duration="334000" />
+      <workItem from="1597832980117" duration="12000" />
+      <workItem from="1598009905201" duration="3376000" />
+      <workItem from="1598013529235" duration="11000" />
+      <workItem from="1598013754254" duration="21000" />
+      <workItem from="1598013922528" duration="1424000" />
+      <workItem from="1598015358142" duration="3000" />
+      <workItem from="1598015510806" duration="1140000" />
+      <workItem from="1598078855556" duration="11738000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1593893104655</created>
@@ -136,11 +900,24 @@
       <option name="project" value="LOCAL" />
       <updated>1593893104655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <created>1593943382984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593943382984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typescript/types/BasicTypes.js" />
+        <option value="$PROJECT_DIR$/typescript/types/Enum.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -152,118 +929,218 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init" />
     <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="208" key="#HTML" timestamp="1590850978139">
-      <screen x="0" y="23" width="3440" height="1360" />
+    <state x="697" y="207" key="#HTML" timestamp="1598015208466">
+      <screen x="0" y="23" width="3440" height="1353" />
     </state>
+    <state x="697" y="207" key="#HTML/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598015208466" />
     <state x="697" y="208" key="#HTML/0.23.3440.1360/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1360" timestamp="1590850978139" />
+    <state x="2150" y="445" key="#ModuleTest.mjs" timestamp="1595159729709">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="2150" y="445" key="#ModuleTest.mjs/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1595159729709" />
+    <state x="887" y="541" key="#Notifications" timestamp="1594494713372">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="887" y="541" key="#Notifications/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1594494713372" />
+    <state x="1585" y="374" key="#Plugins" timestamp="1595850058413">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1585" y="374" key="#Plugins/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1595850058413" />
     <state x="1477" y="497" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593547113224">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
     <state x="1477" y="497" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593547113224" />
-    <state x="2120" y="529" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589228628643">
-      <screen x="0" y="23" width="3440" height="1417" />
+    <state x="2260" y="615" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595496468236">
+      <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state x="2120" y="529" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1589228628643" />
+    <state x="2260" y="615" key="#com.intellij.fileTypes.FileTypeChooser/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1595496468236" />
+    <state x="2611" y="546" key="#com.intellij.ide.util.MemberChooser" timestamp="1596551923303">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="2611" y="546" key="#com.intellij.ide.util.MemberChooser/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596551923303" />
+    <state x="1606" y="563" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596193835732">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1606" y="563" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596193835732" />
+    <state x="1824" y="382" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596108231936">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1824" y="382" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596108231936" />
     <state x="1719" y="513" key="#sample.js" timestamp="1593507871365">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
     <state x="1719" y="513" key="#sample.js/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593507871365" />
-    <state width="1326" height="203" key="GridCell.Tab.0.bottom" timestamp="1593893230681">
+    <state width="1205" height="149" key="GridCell.Tab.0.bottom" timestamp="1596553647729">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="203" key="GridCell.Tab.0.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593893230681" />
-    <state width="1273" height="337" key="GridCell.Tab.0.bottom/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708832808" />
-    <state width="1326" height="203" key="GridCell.Tab.0.center" timestamp="1593893230680">
+    <state width="1034" height="151" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1594327359776" />
+    <state width="1205" height="149" key="GridCell.Tab.0.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596553647729" />
+    <state width="1283" height="151" key="GridCell.Tab.0.bottom/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594547422866" />
+    <state width="1034" height="151" key="GridCell.Tab.0.bottom/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594407685578" />
+    <state width="1205" height="149" key="GridCell.Tab.0.center" timestamp="1596553647729">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="203" key="GridCell.Tab.0.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593893230680" />
-    <state width="1273" height="337" key="GridCell.Tab.0.center/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708832807" />
-    <state width="1326" height="203" key="GridCell.Tab.0.left" timestamp="1593893230680">
+    <state width="1034" height="151" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1594327359775" />
+    <state width="1205" height="149" key="GridCell.Tab.0.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596553647729" />
+    <state width="1283" height="151" key="GridCell.Tab.0.center/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594547422865" />
+    <state width="1034" height="151" key="GridCell.Tab.0.center/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594407685578" />
+    <state width="1205" height="149" key="GridCell.Tab.0.left" timestamp="1596553647729">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="203" key="GridCell.Tab.0.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593893230680" />
-    <state width="1273" height="337" key="GridCell.Tab.0.left/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708832807" />
-    <state width="1326" height="203" key="GridCell.Tab.0.right" timestamp="1593893230681">
+    <state width="1034" height="151" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1594327359774" />
+    <state width="1205" height="149" key="GridCell.Tab.0.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596553647729" />
+    <state width="1283" height="151" key="GridCell.Tab.0.left/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594547422864" />
+    <state width="1034" height="151" key="GridCell.Tab.0.left/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594407685577" />
+    <state width="1205" height="149" key="GridCell.Tab.0.right" timestamp="1596553647729">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="203" key="GridCell.Tab.0.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593893230681" />
-    <state width="1273" height="337" key="GridCell.Tab.0.right/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708832808" />
-    <state width="1326" height="416" key="GridCell.Tab.1.bottom" timestamp="1593869457392">
+    <state width="1034" height="151" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1594327359775" />
+    <state width="1205" height="149" key="GridCell.Tab.0.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596553647729" />
+    <state width="1283" height="151" key="GridCell.Tab.0.right/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594547422865" />
+    <state width="1034" height="151" key="GridCell.Tab.0.right/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594407685578" />
+    <state width="1205" height="319" key="GridCell.Tab.1.bottom" timestamp="1596351321030">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.1.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457392" />
+    <state width="1205" height="319" key="GridCell.Tab.1.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321030" />
     <state width="1273" height="416" key="GridCell.Tab.1.bottom/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718184" />
-    <state width="1326" height="416" key="GridCell.Tab.1.center" timestamp="1593869457391">
+    <state width="1326" height="320" key="GridCell.Tab.1.bottom/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state width="1205" height="319" key="GridCell.Tab.1.center" timestamp="1596351321030">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.1.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457391" />
+    <state width="1205" height="319" key="GridCell.Tab.1.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321030" />
     <state width="1273" height="416" key="GridCell.Tab.1.center/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718184" />
-    <state width="1326" height="416" key="GridCell.Tab.1.left" timestamp="1593869457391">
+    <state width="1326" height="320" key="GridCell.Tab.1.center/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911247" />
+    <state width="1205" height="319" key="GridCell.Tab.1.left" timestamp="1596351321030">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.1.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457391" />
+    <state width="1205" height="319" key="GridCell.Tab.1.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321030" />
     <state width="1273" height="416" key="GridCell.Tab.1.left/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718184" />
-    <state width="1326" height="416" key="GridCell.Tab.1.right" timestamp="1593869457392">
+    <state width="1326" height="320" key="GridCell.Tab.1.left/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911247" />
+    <state width="1205" height="319" key="GridCell.Tab.1.right" timestamp="1596351321030">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.1.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457392" />
+    <state width="1205" height="319" key="GridCell.Tab.1.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321030" />
     <state width="1273" height="416" key="GridCell.Tab.1.right/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718184" />
-    <state width="1326" height="416" key="GridCell.Tab.2.bottom" timestamp="1593869457393">
+    <state width="1326" height="320" key="GridCell.Tab.1.right/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state width="1205" height="319" key="GridCell.Tab.2.bottom" timestamp="1596351321031">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.2.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457393" />
+    <state width="1205" height="319" key="GridCell.Tab.2.bottom/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321031" />
     <state width="1273" height="416" key="GridCell.Tab.2.bottom/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718185" />
-    <state width="1326" height="416" key="GridCell.Tab.2.center" timestamp="1593869457392">
+    <state width="1326" height="320" key="GridCell.Tab.2.bottom/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state width="1205" height="319" key="GridCell.Tab.2.center" timestamp="1596351321031">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.2.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457392" />
+    <state width="1205" height="319" key="GridCell.Tab.2.center/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321031" />
     <state width="1273" height="416" key="GridCell.Tab.2.center/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718185" />
-    <state width="1326" height="416" key="GridCell.Tab.2.left" timestamp="1593869457392">
+    <state width="1326" height="320" key="GridCell.Tab.2.center/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state width="1205" height="319" key="GridCell.Tab.2.left" timestamp="1596351321031">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.2.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457392" />
+    <state width="1205" height="319" key="GridCell.Tab.2.left/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321031" />
     <state width="1273" height="416" key="GridCell.Tab.2.left/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718185" />
-    <state width="1326" height="416" key="GridCell.Tab.2.right" timestamp="1593869457393">
+    <state width="1326" height="320" key="GridCell.Tab.2.left/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state width="1205" height="319" key="GridCell.Tab.2.right" timestamp="1596351321031">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state width="1326" height="416" key="GridCell.Tab.2.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593869457393" />
+    <state width="1205" height="319" key="GridCell.Tab.2.right/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596351321031" />
     <state width="1273" height="416" key="GridCell.Tab.2.right/0.23.3440.1417/-3840.-513.3840.2073/-5520.561.1680.1027@0.23.3440.1417" timestamp="1593708718185" />
-    <state x="1891" y="414" key="SettingsEditor" timestamp="1589229008956">
+    <state width="1326" height="320" key="GridCell.Tab.2.right/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594276911248" />
+    <state x="411" y="278" width="1850" height="722" key="SettingsEditor" timestamp="1598013228657">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="683" y="264" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1594323623083" />
+    <state x="411" y="278" key="SettingsEditor/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1594827317491" />
+    <state x="411" y="278" width="1850" height="722" key="SettingsEditor/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598013228657" />
+    <state x="1891" y="414" key="SettingsEditor/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594238340261" />
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1593943391856">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593943391856" />
+    <state x="1763" y="369" width="861" height="767" key="dock-window-1" timestamp="1596553420735">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1763" y="369" width="861" height="767" key="dock-window-1/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596553420735" />
+    <state x="2242" y="258" key="run.anything.popup" timestamp="1594235781760">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1891" y="414" key="SettingsEditor/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1589229008956" />
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1593893106668">
+    <state x="2242" y="258" key="run.anything.popup/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594235781760" />
+    <state x="1677" y="563" width="685" height="676" key="search.everywhere.popup" timestamp="1594897788147">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593893106668" />
-    <state x="1677" y="563" width="670" height="676" key="search.everywhere.popup" timestamp="1593505543288">
-      <screen x="0" y="23" width="3440" height="1353" />
-    </state>
-    <state x="1677" y="563" width="670" height="676" key="search.everywhere.popup/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593505543288" />
+    <state x="819" y="407" width="670" height="482" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1594326882826" />
+    <state x="1677" y="563" width="685" height="676" key="search.everywhere.popup/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1594897788147" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/js-way/syntax_exercises/LoopingTriangle.js</url>
+          <url>file://$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/LoopingTriangle.js</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/js-way/syntax_exercises/Chessboard.js</url>
+          <url>file://$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/Chessboard.js</url>
           <line>4</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/js-way/syntax_exercises/Chessboard.js</url>
+          <url>file://$PROJECT_DIR$/vanilla-js/exercises/syntax_exercises/Chessboard.js</url>
           <line>5</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/exercises/datastructure_exercises/List.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
