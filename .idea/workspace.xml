@@ -10,11 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657f5843-14dd-401e-a6a8-9ff3a64b25de" name="Default Changelist" comment="Forget :(">
-      <change afterPath="$PROJECT_DIR$/typescript/types/BasicTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typescript/types/Enum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/index.html" afterDir="false" />
+    <list default="true" id="657f5843-14dd-401e-a6a8-9ff3a64b25de" name="Default Changelist" comment="Delete useless">
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/assets/fox.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +71,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,6 +87,9 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/typescript/advanced/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vanilla-js/theory" />
       <recent name="$PROJECT_DIR$/typescript/advanced/src" />
@@ -89,15 +99,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.namespaceUsage.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -238,7 +246,8 @@
       <workItem from="1598013922528" duration="1424000" />
       <workItem from="1598015358142" duration="3000" />
       <workItem from="1598015510806" duration="1140000" />
-      <workItem from="1598078855556" duration="12092000" />
+      <workItem from="1598078855556" duration="12772000" />
+      <workItem from="1598099377434" duration="3124000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1593893104655</created>
@@ -261,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598098498186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Delete useless">
+      <created>1598098721840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598098721840</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +305,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init" />
     <MESSAGE value="Forget :(" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forget :(" />
+    <MESSAGE value="Delete useless" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete useless" />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="207" key="#HTML" timestamp="1598015208466">
@@ -416,11 +433,11 @@
     <state x="411" y="278" key="SettingsEditor/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1594827317491" />
     <state x="411" y="278" width="1850" height="722" key="SettingsEditor/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598013228657" />
     <state x="1891" y="414" key="SettingsEditor/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594238340261" />
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1598098503385">
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1598098729039">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
     <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593943391856" />
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598098503385" />
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598098729039" />
     <state x="1763" y="369" width="861" height="767" key="dock-window-1" timestamp="1596553420735">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
