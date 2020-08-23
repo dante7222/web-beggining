@@ -10,17 +10,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657f5843-14dd-401e-a6a8-9ff3a64b25de" name="Default Changelist" comment="Delete useless">
-      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/assets/fox.jpg" afterDir="false" />
+    <list default="true" id="657f5843-14dd-401e-a6a8-9ff3a64b25de" name="Default Changelist" comment="Add image">
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/classes/blocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/classes/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/classes/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +248,8 @@
       <workItem from="1598015358142" duration="3000" />
       <workItem from="1598015510806" duration="1140000" />
       <workItem from="1598078855556" duration="12772000" />
-      <workItem from="1598099377434" duration="3124000" />
+      <workItem from="1598099377434" duration="10126000" />
+      <workItem from="1598184044996" duration="4191000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1593893104655</created>
@@ -277,7 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598098721840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add image">
+      <created>1598109321661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598109321661</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add image">
+      <created>1598109420579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598109420579</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +322,8 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Forget :(" />
     <MESSAGE value="Delete useless" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete useless" />
+    <MESSAGE value="Add image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="697" y="207" key="#HTML" timestamp="1598015208466">
@@ -346,6 +363,10 @@
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
     <state x="1824" y="382" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1596108231936" />
+    <state x="1077" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598116004510">
+      <screen x="0" y="23" width="3440" height="1353" />
+    </state>
+    <state x="1077" y="463" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598116004510" />
     <state x="1719" y="513" key="#sample.js" timestamp="1593507871365">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
@@ -433,11 +454,11 @@
     <state x="411" y="278" key="SettingsEditor/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1594827317491" />
     <state x="411" y="278" width="1850" height="722" key="SettingsEditor/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598013228657" />
     <state x="1891" y="414" key="SettingsEditor/0.23.3440.1417/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1417" timestamp="1594238340261" />
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1598098729039">
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2" timestamp="1598109422070">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
     <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-513.3840.2137/-5520.561.1680.1027@0.23.3440.1353" timestamp="1593943391856" />
-    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598098729039" />
+    <state x="1521" y="489" key="Vcs.Push.Dialog.v2/0.23.3440.1353/-3840.-892.3840.2137/-5520.182.1680.1027@0.23.3440.1353" timestamp="1598109422070" />
     <state x="1763" y="369" width="861" height="767" key="dock-window-1" timestamp="1596553420735">
       <screen x="0" y="23" width="3440" height="1353" />
     </state>
@@ -515,6 +536,11 @@
           <url>file://$PROJECT_DIR$/vanilla-js/theory/async/Understand.js</url>
           <line>19</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vanilla-js/apps/js-constructor/src/model.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
